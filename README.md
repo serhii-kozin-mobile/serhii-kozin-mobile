@@ -8,9 +8,9 @@ Ukrainian developer in Poland. I build AI agents and developer tools, and I writ
 
 **Where I write**
 - X: [@SerhiiBuilds](https://x.com/SerhiiBuilds)
-- Medium: [@kozinsergej94](https://medium.com/@kozinsergej94)
+- Medium: [@serhiibuilds](https://medium.com/@serhiibuilds)
 - YouTube: [@serhii.builds](https://www.youtube.com/@serhii.builds)
 
-**Latest article:** [Your Agent Bill Is an Architecture Problem](https://medium.com/@kozinsergej94/your-agent-bill-is-an-architecture-problem-2cca75d837af)
+**Latest article:** [Your Agent Bill Is an Architecture Problem](https://medium.com/@serhiibuilds/your-agent-bill-is-an-architecture-problem-2cca75d837af)
 
 Building agents for production? Happy to compare notes.
