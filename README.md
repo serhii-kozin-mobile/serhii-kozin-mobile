@@ -1,6 +1,6 @@
 ### Hi, I'm Serhii 👋
 
-Ukrainian developer in Poland. I build AI agents and developer tools, and I write build logs about what happens when agents leave the demo and meet real work: real costs, real failures, and what actually holds up.
+I build AI agents and developer tools, and I write build logs about what happens when agents leave the demo and meet real work: real costs, real failures, and what actually holds up.
 
 **What I work on**
 - AI agents in production: evals, tool use, cost vs. quality tradeoffs, coding agents
